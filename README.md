@@ -5,13 +5,13 @@
 <h3 >💡 My Most Used Languages 💡</h3>
 <p >
   <a href="https://github.com/DonghyeopLee">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjddn3711&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonghyeopLee&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord" />
   </a>
 </p>
 <h3>💡 My Git Stats 💡</h3>
 <p >
   <a href="https://github.com/${깃닉네임}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=wjddn3711&&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DonghyeopLee&&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
   </a>
 </p>
 
