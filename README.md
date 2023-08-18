@@ -43,6 +43,6 @@
 
 
 # :mailbox_with_mail: Contact Me?
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=mailto:wjddn3711@gmail.com)](https://velog.io/@wjddn3711)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wjddn3711@gmail.com)](mailto:wjddn3711@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:wjddn3711@naver.com)](mailto:wjddn3711@naver.com)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=mailto:ko98000@gmail.com)](https://velog.io/@wjddn3711)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ko98000@gmail.com)](mailto:wjddn3711@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ko98000@gmail.com)](mailto:wjddn3711@naver.com)
