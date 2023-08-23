@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=header&text=Endless%20Coding!%20!🥳&fontSize=50&animation=twinkling)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=DonghyeopLee)](https://solved.ac/DonghyeopLee/)
+
 
 <h3 >💡 My Most Used Languages 💡</h3>
 <p >
